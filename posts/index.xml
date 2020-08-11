@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>归档 on 芸间</title>
+    <link>https://mayice.github.io/posts/</link>
+    <description>Recent content in 归档 on 芸间</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。</copyright>
+    
+	<atom:link href="https://mayice.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
